@@ -1,4 +1,4 @@
-# Return-the-even-numbers
+# Count-the-even-numbers-in-list
  Return the number of even integers in the given array.
 
  Examples:
